@@ -11,5 +11,3 @@ Here is the github for the paper "Positive Unlabeled Learning and Positional Byt
 - Chinese Plate Number
 
 We use Generex to generate positive samples based on human-written regexes while preserving personal privacy. 
-
-Currently, our data is going through the company’s data disclosure approval process, and we will update our database once the approval is passed.
